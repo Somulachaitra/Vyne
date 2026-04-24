@@ -1,0 +1,8 @@
+{
+  "name": "Vyne",
+  "description": "Your neighborhood, harvested. Peer-to-peer urban gardening platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
